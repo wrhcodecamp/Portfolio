@@ -5,3 +5,8 @@
 	align-items: center;
 	border-radius: 50%;
 }
+.portfolioBits {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
